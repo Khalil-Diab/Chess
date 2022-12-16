@@ -1,0 +1,23 @@
+img
+{
+    width: 300px;
+}
+body 
+{
+    background-color: burlywood;
+}
+h1
+{
+    color: brown;
+}
+hr
+{
+    border-color: black ;
+    border-width: 2px;
+    border-style: dotted none none;
+
+}
+p
+{
+    color: black;
+}
